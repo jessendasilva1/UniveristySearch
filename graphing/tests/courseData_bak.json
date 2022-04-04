@@ -1,0 +1,364 @@
+[
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "HTM*2020"
+      ],
+      [
+        "MCS*1000"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      "1.5",
+      [
+        "MGMT*1000",
+        "MGMT*2150"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "HTM*1000",
+        "HTM*1160",
+        "HTM*1700",
+        "HTM*2020"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      "8.0",
+      [
+        "HTM*2010"
+      ],
+      [
+        "HTM*1160",
+        "HTM*2100"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "ACCT*1220",
+        "ACCT*2220"
+      ],
+      [
+        "ECON*2740",
+        "PSYC*1010",
+        "STAT*2040",
+        "STAT*2060",
+        "STAT*2080"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "CIS*1300",
+        "CIS*1500"
+      ],
+      [
+        "IPS*1510",
+        "MATH*1090",
+        "MATH*1210",
+        "MATH*2080"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "4U Calculus and Vectors",
+        "4U Advanced Functions and Calculus",
+        "Grade 12 Calculus"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "15.00 Credits including MCS*3030"
+      ],
+      [
+        "MCS*3500"
+      ],
+      [
+        "MCS*3620"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "15.00 Credits including one of MCS*3030"
+      ],
+      [
+        "MCS*3500"
+      ],
+      [
+        "MCS*3620"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ACCT",
+    "course_num": 4220,
+    "course_name": "Advanced Financial Accounting",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course is a critical evaluation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      [
+        "XSEN*4030. Restricted to BSCH.BPCH and BSCH.BPCH:C"
+      ]
+    ],
+    "co_reqs": [],
+    "equates": [
+      "BUS*4220"
+    ],
+    "restrictions": [
+      "Enrolment may be restricted to particular degrees or programs."
+    ],
+    "dept": [
+      "Department of Management"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  }
+]

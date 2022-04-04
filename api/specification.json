@@ -1,0 +1,658 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "0.1",
+        "title": "3760 API",
+        "license": {
+            "name": "MIT",
+            "identifier": "MIT"
+        }
+    },
+    "servers": [
+        {
+            "url": "https://131.104.49.113/api"
+        }
+    ],
+    "paths": {
+        "/courses": {
+            "get": {
+                "summary": "Details about a course",
+                "operationId": "listCourses",
+                "parameters": [
+                    {
+                        "name": "is_ottawa",
+                        "in": "query",
+                        "description": "Is the course offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_guelph",
+                        "in": "query",
+                        "description": "Is the course offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "subject",
+                        "in": "query",
+                        "description": "subject of the course",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "course_num",
+                        "in": "query",
+                        "description": "Course number of the course",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int32"
+                        }
+                    },
+                    {
+                        "name": "name",
+                        "in": "query",
+                        "description": "Name of the course",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "is_offered_fall",
+                        "in": "query",
+                        "description": "Is the course offered in the fall semester",
+                        "required": false,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_offered_winter",
+                        "in": "query",
+                        "description": "Is the course offered in the winter semester",
+                        "required": false,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_offered_summer",
+                        "in": "query",
+                        "description": "Is the course offered in the summer semester",
+                        "required": false,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "lectures",
+                        "in": "query",
+                        "description": "Number of lecture hours per week for a course",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int32"
+                        }
+                    },
+                    {
+                        "name": "labs",
+                        "in": "query",
+                        "description": "Number of lab hours per week for a course",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int32"
+                        }
+                    },
+                    {
+                        "name": "credits",
+                        "in": "query",
+                        "description": "Number of credits for a course",
+                        "required": false,
+                        "schema": {
+                            "type": "number",
+                            "format": "float"
+                        }
+                    },
+                    {
+                        "name": "prereqs",
+                        "in": "query",
+                        "description": "Prerequisite for a course",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Details about a course",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Course"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Course Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "unexpected error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/subjects": {
+            "get": {
+                "summary": "All Subjects of courses/majors offered",
+                "operationId": "subjects",
+                "parameters": [
+                    {
+                        "name": "is_ottawa",
+                        "in": "query",
+                        "description": "Is the course/major offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_guelph",
+                        "in": "query",
+                        "description": "Is the course/major offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_major",
+                        "in": "query",
+                        "description": "Is the course/major offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "All Subjects of courses/Majors offered",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Subjects"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Subject Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "Unexpected error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/courses/graph": {
+            "get": {
+                "summary": "links between courses",
+                "operationId": "graphCourses",
+                "parameters": [
+                    {
+                        "name": "is_ottawa",
+                        "in": "query",
+                        "description": "Is the course offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_guelph",
+                        "in": "query",
+                        "description": "Is the course offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "subject",
+                        "in": "query",
+                        "description": "subject of the course",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Links between courses",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/CourseGraph"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Subject Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "unexpected error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/majors/graph": {
+            "get": {
+                "summary": "links between courses within a major",
+                "operationId": "graphMajors",
+                "parameters": [
+                    {
+                        "name": "is_ottawa",
+                        "in": "query",
+                        "description": "Is the course offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "is_guelph",
+                        "in": "query",
+                        "description": "Is the course offered by University of Ottawa",
+                        "required": true,
+                        "schema": {
+                            "type": "boolean"
+                        }
+                    },
+                    {
+                        "name": "major_code",
+                        "in": "query",
+                        "description": "code of the major",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Links between courses within a major",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/CourseGraph"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Major Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "unexpected error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "CoursePreq": {
+                "type": "object",
+                "required": [
+                    "num_options",
+                    "is_credits"
+                ],
+                "properties": {
+                    "num_options": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "is_credits": {
+                        "type": "boolean"
+                    },
+                    "num_credits": {
+                        "type": "number",
+                        "format": "float"
+                    },
+                    "options": {
+                        "type": "array",
+                        "items": {
+                            "oneOf": [
+                                {
+                                    "$ref": "#/components/schemas/CoursePreq"
+                                },
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "Course": {
+                "type": "object",
+                "required": [
+                    "subject",
+                    "course_num",
+                    "course_name",
+                    "is_ottawa",
+                    "is_guelph"
+                ],
+                "properties": {
+                    "is_guelph": {
+                        "type": "boolean"
+                    },
+                    "is_ottawa": {
+                        "type": "boolean"
+                    },
+                    "subject": {
+                        "type": "string"
+                    },
+                    "subject_name": {
+                        "type": "string"
+                    },
+                    "course_num": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "course_name": {
+                        "type": "string"
+                    },
+                    "is_offered_fall": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "is_offered_winter": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "is_offered_summer": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "lectures": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "labs": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "credits": {
+                        "type": "number",
+                        "format": "float"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "offering": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "prereqs": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/CoursePreq"
+                        }
+                    },
+                    "co_reqs": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "equates": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "restrictions": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "dept": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "location": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
+            "Major": {
+                "type": "object",
+                "required": [
+                    "is_guelph",
+                    "is_ottawa",
+                    "majorname",
+                    "majorCode",
+                    "requiredCourses"
+                ],
+                "properties": {
+                    "is_guelph": {
+                        "type": "boolean"
+                    },
+                    "is_ottawa": {
+                        "type": "boolean"
+                    },
+                    "degreename": {
+                        "type": "string"
+                    },
+                    "degreeCode": {
+                        "type": "string"
+                    },
+                    "majorName": {
+                        "type": "string"
+                    },
+                    "majorCode": {
+                        "type": "string"
+                    },
+                    "requiredCourses": {
+                        "type": "array",
+                        "items": {
+                            "content": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "electives": {
+                        "type": "array",
+                        "items": {
+                            "content": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "totalRequiredWeight": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "totalElectiveWeight": {
+                        "type": "integer",
+                        "format": "int32"
+                    }
+                }
+            },
+            "Subjects": {
+                "type": "object",
+                "required": [
+                    "code",
+                    "name",
+                    "is_ottawa",
+                    "is_guelph"
+                ],
+                "properties": {
+                    "code": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "is_ottawa": {
+                        "type": "boolean"
+                    },
+                    "is_guelph": {
+                        "type": "boolean"
+                    }
+                }
+            },
+            "CourseGraph": {
+                "type": "object",
+                "required": [
+                    "src",
+                    "dest",
+                    "link",
+                    "is_guelph",
+                    "is_ottawa"
+                ],
+                "properties": {
+                    "is_guelph": {
+                        "type": "boolean"
+                    },
+                    "is_ottawa": {
+                        "type": "boolean"
+                    },
+                    "src": {
+                        "$ref": "#/components/schemas/GraphLink"
+                    },
+                    "dest": {
+                        "$ref": "#/components/schemas/GraphLink"
+                    },
+                    "link_type": {
+                        "type": "string"
+                    },
+                    "link_label": {
+                        "type": "string"
+                    }
+                }
+            },
+            "GraphLink": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "type_id"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "type_id": {
+                        "type": "integer",
+                        "format": "int32"
+                    }
+                }
+            },
+            "Error": {
+                "type": "object",
+                "required": [
+                    "code",
+                    "message"
+                ],
+                "properties": {
+                    "code": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "message": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "securitySchemes": {
+            "BasicAuth": {
+                "type": "http",
+                "scheme": "basic"
+            }
+        }
+    },
+    "security": [
+        {
+            "BasicAuth": []
+        }
+    ]
+}

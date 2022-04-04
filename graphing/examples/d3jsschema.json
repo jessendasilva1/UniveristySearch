@@ -1,0 +1,22 @@
+{
+    "type":"array",
+    "items":{
+        "type": "object",
+        "required": [
+        "source",
+        "target",
+        "type"
+        ],
+        "properties": {
+            "source": {
+                "type": "string"
+            },
+            "target": {
+                "type": "string"
+            },
+            "type": {
+                "type": "string"
+            }
+        }
+    }
+}

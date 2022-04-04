@@ -1,0 +1,134 @@
+Outlier 1: Separated by Semester Separators (Most actually, so could also be called Usual Case)
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/applied-human-nutrition-ahn/#requirementstext
+
+
+Outlier 2: Different cores satisfy the major, with some being listed as Usual Case but some are listed in bulk, or only by minor program names
+https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-arts-sciences-bas/#requirementstext
+
+
+Outlier 3: Major header is not used, 'Credit Summary' used instead
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-industry-management-co-op-fimc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-agricultural-business-co-op-fab-c/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-governance-co-op-egov-c/#requirementstext
+
+
+Outlier 4: Major header is not used, 'Major Co-op (Honours Program)' used instead (A lot of these)
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computer-science-co-op-csc/#requirementstext
+
+
+Outlier 5: Major header is not used, 'Major (Honours Program)' used instead (A lot of these)
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/software-engineering-seng/#requirementstext
+
+
+Outlier 6: Program has tab for requirements AND for co-op requirements tagged as '#requirementscooptext'
+https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-indigenous-environmental-science-and-practice-biesp/#requirementscooptext
+
+
+Outlier 7: Major header NOT used, but then seperated after semester 4 into ''Restricted Electives' - Option A' and 'Option B - Research'
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/animal-science-ansc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/honours-agriculture-agrs/#requirementstext
+
+
+Outlier 8: Same as Outlier 7 but heading for Major is 'Credit Summary'
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/crop-science-crsc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/horticulture-hort/#requirementstext
+
+
+Outlier 9: 'Restricted Electives' are required but separated in Outlier 1 style by 'List A' and 'List B' similar to Outlier 7 (Sometimes goes up to 'List E')
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-management-major-em/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-management-major-co-op-em-c/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-economics-policy-eepc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-sciences-envs/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-biology-envb/#requirementstext
+
+
+Outlier 10: Major header is not used, 'Schedule of Studies' is used instead
+https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/doctor-veterinary-medicine-dvm/#scheduleofstudiestext
+
+
+Outlier 11: Major header is not used 'Sequence A' and 'Sequence B' are used as seperate requirements that both fulfill the major
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biochemistry-co-op-biocc/#requirementstext
+
+
+Outlier 12: Similar to Outlier 9 but instead of being under 'Restricted Electives', they are their own header being 'List A: Biological Physics Stream' and 'List B: Medical Physics Stream'
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-medical-physics-bmph/
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-medical-physics-co-op-bmphc/#requirementstext
+
+
+Outlier 13: 'Major (Honours Program)' header is used but list is actually under 'Schedule of Studies' header
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-science-bios/#requirementstext
+
+
+Outlier 14: 'Restricted Electives' is then separated to ''Restricted Electives' Content Area 1: Adult Development & Gerontology' and others
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/family-studies-human-development-fshd/#requirementstext
+
+
+Outlier 15: Link off of https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/ goes straight to a single program
+https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-arts-sciences-bas/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-landscape-architecture-bla/#requirementstext
+
+
+Outlier 16: Major header is just not used
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/equine-management-major-eqm/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-industry-management-fim/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-management-major-em/#requirementstext (Also Outlier 9)
+
+
+Outlier 17: ''Restricted Electives' for the Marketing Management Major' header is used and then separated into separate lists of Outlier 1
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marketing-management-co-op-mkmn-c/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marketing-management-mkmn/#requirementstext
+
+
+Outlier 18: 'Restricted Electives' is also separated into separate streams and Areas of Emphasis
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematical-science-msci-bsc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/hospitality-tourism-management-htm/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/hospitality-tourism-management-co-op-htm-c/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/management-economics-finance-mef/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/management-economics-finance-co-op-mef-c/#requirementstext
+
+
+Outlier 19: Instead of having 'Restricted Electives', it has ‘Areas of Focus’ Which are then listed in a separate format than Outlier 1
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/nanoscience-nano/#requirementstext
+
+
+Outlier 20: Has ‘Core Requirements’ and ‘Major’
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/classical-studies-clas/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/history-hist/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/music-musc/#requirementstext
+
+
+Outlier 21: ‘Major’ Is separated into lettered tabs
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/culture-and-technology-studies-cts/#requirementstext
+
+
+Outlier 22: Has ‘Area of Concentration (General Program)’ and ‘Major’
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/english-engl/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/french-studies-fren/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/geography-geog/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/philosophy-phil/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/political-science-pols/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/psychology-psyc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/sociology-soc/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/spanish-hispanic-studies-spah/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/theatre-studies-thst/#requirementstext
+
+
+Outlier 23: List under Major is separated into Groups
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/european-studies-eurs/#requirementstext
+
+
+Outlier 24: 'Restricted Electives' is ‘Distribution Requirements’
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/history-hist/#requirementstext
+
+
+Outlier 25: Has two separate Areas of Emphasis, one under Major and one not
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/international-development-studies-co-op-ids-c/#requirementstext
+
+
+Outlier 26: This is formatted in the weirdest way possible, so out of there they deserve their own category
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/physical-science-psci/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/international-development-studies-ids/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/justice-and-legal-studies-jls/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/justice-and-legal-studies-co-op-jls-c/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematical-science-msci/#requirementstext
+https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/psychology-co-op-psyc-c/#requirementstext

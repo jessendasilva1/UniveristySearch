@@ -1,0 +1,80 @@
+[
+  {
+    "subject": "ANTH",
+    "course_num": 2230,
+    "course_name": "Regional Ethnography",
+    "is_offered_fall": true,
+    "is_offered_winter": false,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course offers a survey of ethnographic studies on selected cultural/geographical area(s) of the world. Topics covered may include social, economic and political systems, the colonial encounter, and the theoretical, methodological and political contexts of ethnographic representation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      "ANTH*1150"
+    ],
+    "co_reqs": [],
+    "equates": [],
+    "restrictions": [],
+    "dept": [
+      "Department of Sociology and Anthropology"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ANTH",
+    "course_num": 2660,
+    "course_name": "Contemporary Indigenous Peoples in Canada",
+    "is_offered_fall": false,
+    "is_offered_winter": true,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "An anthropological analysis of the impact of settler society on Indigenous cultures. Particular emphasis will be given to contemporary issues relating to Indigenous peoples in Canada, including First Nations, Inuit, and Metis peoples. Topics to be covered may include education, treaties and reserves, land claims, government administration, economic development, and reconciliation.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      ["ANTH*1150", "IDEV*1000", "SOC*1100"]
+    ],
+    "co_reqs": [],
+    "equates": [],
+    "restrictions": [],
+    "dept": [
+      "Department of Sociology and Anthropology"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  },
+  {
+    "subject": "ANTH",
+    "course_num": 3550,
+    "course_name": "Medical Anthropology",
+    "is_offered_fall": false,
+    "is_offered_winter": true,
+    "is_offered_summer": false,
+    "lectures": 3,
+    "labs": 0,
+    "credits": 0.5,
+    "description": "This course provides an introduction to medical anthropology and the anthropology of health. We will examine theory, methods, practice, and contemporary and historical topical issues.",
+    "offering": [],
+    "unknown": "",
+    "prereqs": [
+      "SOAN*2120", ["ANTH*2160", "ANTH*2180", "ANTH*2230", "ANTH*2660", "IDEV*2500"]
+    ],
+    "co_reqs": [],
+    "equates": [],
+    "restrictions": [],
+    "dept": [
+      "Department of Sociology and Anthropology"
+    ],
+    "location": [
+      "Guelph"
+    ]
+  }
+]

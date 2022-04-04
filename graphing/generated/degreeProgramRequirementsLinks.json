@@ -1,0 +1,283 @@
+[
+    {
+        "name": "Bachelor of Applied Science (B.A.Sc.)",
+        "degreeCode": "B.A.Sc.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/applied-human-nutrition-ahn/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/child-studies-cstu/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/family-studies-human-development-fshd/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/applied-human-nutrition-ahn/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/child-studies-cstu/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/family-studies-human-development-fshd/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Arts (B.A.)",
+        "degreeCode": "B.A.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/anthropology-anth/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/anthropology-co-op-anth-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/art-history-arth/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/arts-management-am/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/black-canadian-studies-blck/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/business-bus/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/business-economics-becn/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/classical-studies-clas/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computing-information-science-cis/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/creative-writing-cw/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/criminal-justice-public-policy-cjpp/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/criminal-justice-public-policy-co-op-cjpp-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/culture-and-technology-studies-cts/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/culture-and-technology-studies-co-op-ctsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/economics-econ/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/economics-co-op-econ-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/english-engl/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-governance-egov/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-governance-co-op-egov-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/european-culture-civilization-ecc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/european-studies-eurs/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/family-child-studies-fcs/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-agricultural-resource-economics-fare/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-agricultural-resource-economics-co-op-fare-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/french-studies-fren/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/geography-geog/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/geography-co-op-geog-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/german-germ/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/history-hist/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/history-co-op-hist-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/human-resources-hr/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/international-development-studies-ids/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/international-development-studies-co-op-ids-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/italian-ital/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/justice-and-legal-studies-jls/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/justice-and-legal-studies-co-op-jls-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/linguistics-ling/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marketing-mktg/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematical-economics-maec/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematical-economics-co-op-maec-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematical-science-msci/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematics-math/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/media-cinema-studies-mcst/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/museum-studies-ms/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/music-musc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/philosophy-phil/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/political-science-pols/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/political-science-co-op-pols-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/psychology-psyc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/psychology-co-op-psyc-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/sexualities-genders-and-social-change-sxgn/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/sociology-soc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/spanish-hispanic-studies-spah/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/statistics-stat/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/studio-art-sart/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/theatre-studies-thst/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Arts and Sciences (B.A.S.)",
+        "degreeCode": "B.A.S.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-arts-sciences-bas/"
+        ]
+    },
+    {
+        "name": "Bachelor of Bio-Resource Management Degree (B.B.R.M.)",
+        "degreeCode": "B.B.R.M.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-management-major-em/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-management-major-co-op-em-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/equine-management-major-eqm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/equine-management-major-co-op-eqm-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-industry-management-fim/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-industry-management-co-op-fimc/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Commerce (B.Comm.)",
+        "degreeCode": "B.Comm.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/accounting-acct/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/accounting-co-op-acct-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/business-bus-bcomm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/business-data-analytics-bda/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/business-economics-becn-bcomm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/economics-econ-bcomm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/entrepreneurship-ent/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-agricultural-business-fab/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-agricultural-business-co-op-fab-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/government-economics-and-management-gem/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/government-economics-and-management-co-op-gem-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/hospitality-tourism-management-htm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/hospitality-tourism-management-co-op-htm-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/human-resources-hr-bcomm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/international-business-ib/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/management-mgmt/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/management-co-op-mgmt-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/management-economics-finance-mef/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/management-economics-finance-co-op-mef-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marketing-mktg-bcomm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marketing-management-mkmn/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marketing-management-co-op-mkmn-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/project-management-pm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/real-estate-re/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/real-estate-co-op-re-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/sport-event-management-spmt/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/sport-event-management-co-op-spmt-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/sustainable-business-sb/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Computing (B.Comp.)",
+        "degreeCode": "B.Comp.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computer-science-cs/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computer-science-co-op-csc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/software-engineering-seng/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/software-engineering-co-op-sengc/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Engineering (B.Eng.)",
+        "degreeCode": "B.Eng.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-engineering-program-bioe/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biomedical-engineering-program-bme/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computer-engineering-program-ceng/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/engineering-systems-computing-program-esc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-engineering-program-enve/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mechanical-engineering-program-mech/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/water-resources-engineering-program-wre/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-engineering-program-bioe/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-engineering-program-co-op-bioec/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biomedical-engineering-program-bme/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biomedical-engineering-program-co-op-bmec/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computer-engineering-program-ceng/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computer-engineering-program-co-op-cengc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/engineering-systems-computing-program-esc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/engineering-systems-computing-program-co-op-escc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-engineering-program-enve/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-engineering-program-co-op-envec/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-engineering-feng/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mechanical-engineering-program-mech/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mechanical-engineering-program-co-op-mechc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/water-resources-engineering-program-wre/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/water-resources-engineering-program-co-op-wrec/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Indigenous Environmental Science and Practice (B.I.E.S.P.)",
+        "degreeCode": "B.I.E.S.P.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-indigenous-environmental-science-and-practice-biesp/"
+        ]
+    },
+    {
+        "name": "Bachelor of Landscape Architecture (B.L.A.)",
+        "degreeCode": "B.L.A.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-landscape-architecture-bla/"
+        ]
+    },
+    {
+        "name": "Bachelor of One Health (BOH)",
+        "degreeCode": "BOH",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/bachelor-of-one-health-boh/"
+        ]
+    },
+    {
+        "name": "Bachelor of Science (B.Sc.)",
+        "degreeCode": "B.Sc.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/animal-biology-abio/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/applied-geomatics-ag/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/bio-medical-science-biom/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biochemistry-bioc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biochemistry-co-op-biocc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biodiversity-biod/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-medical-physics-bmph/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-medical-physics-co-op-bmphc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-pharmaceutical-chemistry-bpch/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-pharmaceutical-chemistry-co-op-bpchc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biological-science-bios/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biology-biol/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biomedical-toxicology-btox/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biomedical-toxicology-co-op-btoxc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/biotechnology-biot/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/business-economics-becn-bsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/chemical-physics-chpy/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/chemical-physics-co-op-chpyc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/chemistry-chem/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/chemistry-co-op-chemc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/computing-information-science-cis-bsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/ecology-ecol-bsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-biology-envb/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-geomatics-eg/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-geomatics-co-op-egc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-science-food/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/food-science-co-op-foodc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/human-kinetics-hk/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marine-freshwater-biology-mfb/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/marine-freshwater-biology-co-op-mfbc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematical-science-msci-bsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/mathematics-math-bsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/microbiology-micr/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/microbiology-co-op-micrc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/molecular-biology-genetics-mbg/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/molecular-biology-genetics-co-op-mbg-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/nanoscience-nano/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/nanoscience-nanoc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/neuroscience-neur/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/nutritional-nutraceutical-sciences-nans/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/physical-science-psci/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/physics-phys/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/physics-co-op-physc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/plant-science-plsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/plant-science-co-op-plsc-c/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/statistics-stat-bsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/theoretical-physics-thpy/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/wildlife-biology-conservation-wbc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/wildlife-biology-conservation-co-op-wbcc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/zoology-zoo/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Science in Agriculture [B.Sc.(Agr.)]",
+        "degreeCode": "Agr.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/agriculture-agr/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/animal-science-ansc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/crop-science-crsc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/honours-agriculture-agrs/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/horticulture-hort/#requirementstext"
+        ]
+    },
+    {
+        "name": "Bachelor of Science in Environmental Sciences [B.Sc.(Env.)]",
+        "degreeCode": "Env.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/ecology-ecol/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/ecology-ecolc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environment-resource-management-erm/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environment-resource-management-ermc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-economics-policy-eep/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-economics-policy-eepc/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-sciences-envs/#requirementstext",
+            "https://calendar.uoguelph.ca/undergraduate-calendar/programs-majors-minors/environmental-sciences-envsc/#requirementstext"
+        ]
+    },
+    {
+        "name": "Co-operative Education Programs",
+        "degreeCode": "",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/co-operative-education-programs/"
+        ]
+    },
+    {
+        "name": "Doctor of Veterinary Medicine (D.V.M.)",
+        "degreeCode": "D.V.M.",
+        "links": [
+            "https://calendar.uoguelph.ca/undergraduate-calendar/degree-programs/doctor-veterinary-medicine-dvm/"
+        ]
+    }
+]

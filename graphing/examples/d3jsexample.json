@@ -1,0 +1,17 @@
+[
+    {
+        "source":"CIS1500",
+        "target":"CIS2500",
+        "type":"mandatory"
+    },
+    {
+        "source":"MATH1200",
+        "target":"MATH2100",
+        "type":"mandatory"
+    },
+    {
+        "source":"ENGG1500",
+        "target":"CIS2910",
+        "type":"optional"
+    }
+]

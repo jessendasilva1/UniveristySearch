@@ -1,0 +1,228 @@
+.rootDiv{
+    display: flex;
+}
+#header{
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+    font-family: Rajdhani, serif;
+}
+#headerDiv{
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(203, 255, 246);
+}
+p{
+    color:rgb(255, 255, 255);
+}
+#navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    background-color: rgb(51, 51, 51);
+}
+
+#menuDiv{
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+#menuDiv > *{
+    margin: 10px;
+}
+#teamNum{
+    margin: 0;
+    padding-right: 5px;
+    color: white;
+}
+#temp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.tempContents{
+    padding: 10px;
+}
+
+a:link{
+    text-decoration: none;
+}
+#bootstrapExample{
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+}
+.btnExample{
+    margin: 10px;
+}
+#creditSlider{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+}
+#imageTemp{
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 200px;
+    border: 3px solid rgb(0, 0, 0);
+    
+}
+#jqueryDiv{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.jqueryButton{
+    width: fit-content;
+}
+#tempDiv{
+    display: flex;
+    justify-content: center;
+}
+#searchDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    /*border: 1px solid black;*/
+}
+.searchTitle{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.searchInputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.searchInputs > *{
+    flex-basis: 33%;
+    margin: 10px;
+}
+.inputs{
+    height: 30px;
+}
+#submitFormButton{
+    min-width: 150px;
+    margin: 15px;
+}
+input:focus {
+    background-color: rgb(235, 235, 235);
+  }
+  
+.radioDivs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.radioDivs > *{
+    margin: 5px;
+}
+#gitlabLogo{
+    height: 38px;
+    width: 80px;
+    background-color: whitesmoke;
+}
+#loginButton:hover{
+    background-color: rgb(194, 194, 194);
+}
+.footer{
+    background-color: rgb(51, 51, 51);
+}
+#footer2{
+    background-color: rgb(51, 51, 51);
+
+}
+#test{
+    margin-top: 10px;
+    background-color: #21081a;
+}
+th:hover {
+    cursor: pointer;
+}
+#courseTableDiv{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+#tableHead{
+    position:sticky;
+    top: 0 ;
+}
+#searchGraphButtonsDiv{
+    display: flex;
+    justify-content: space-evenly;  
+}   
+#searchGraphButtonsDiv > *{
+    margin: 5px;
+}
+.searchGraphButtons{
+    margin: 5px;
+}
+#schoolDropdown > * {
+    margin-right: 5px;
+}
+#schoolDropdown{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+#subjectsDropdown{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+#subjectsDropdown > * {
+    margin-right: 5px;
+}
+.dropdownOutput{
+    display: flex;
+    min-width: 150px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px  solid black;
+}
+.dropdown-menu{
+    height: 350px;
+    overflow-y: scroll;
+}
+.loadingModal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('http://i.stack.imgur.com/FhHRx.gif') 
+                50% 50% 
+                no-repeat;
+}
+body.loading .loadingModal {
+    overflow: hidden;   
+}
+body.loading .loadingModal {
+    display: block;
+}
+.link.dashed{
+    stroke-dasharray: 0, 2, 1;
+}
